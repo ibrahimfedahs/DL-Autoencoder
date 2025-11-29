@@ -25,12 +25,11 @@ Test the model and visualize original, noisy, and denoised images.
 # STEP 6:
 Repeat through multiple epochs for better denoising performance.
 
-
-
-## PROGRAM
 ### Name:IBRAHIM FEDAH S
 
 ### Register Number:212223240056
+
+## PROGRAM
 
 # Autoencoder for Image Denoising using PyTorch
 ```
